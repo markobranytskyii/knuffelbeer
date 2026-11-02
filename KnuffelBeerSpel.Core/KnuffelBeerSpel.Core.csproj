@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Bewust GEEN Windows Forms in dit project: alle spellogica staat hier,
+       los van de gebruikersinterface. Daardoor is alles te testen. -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>KnuffelBeerSpel.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>

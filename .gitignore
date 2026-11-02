@@ -1,0 +1,24 @@
+# Build-uitvoer
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Testresultaten
+TestResults/
+*.trx
+coverage*.xml
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Besturingssysteem
+Thumbs.db
+.DS_Store
